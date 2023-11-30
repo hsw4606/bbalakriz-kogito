@@ -1,2 +1,3 @@
 apps/barista/target/
 apps/coffee-shop/target/
+.DS_Store
